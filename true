@@ -1,0 +1,33 @@
+ > JsDoc Toolkit main() running at Mon Sep 10 2012 18:55:14 GMT-0400 (EDT).
+ > With options: 
+ >     d: out/jsdoc
+ >     o: true
+ >     t: templates/jsdoc/
+ >     _: /test/
+ >     v: true
+ >     a: true
+ > Output directory set to 'out/jsdoc/'.
+ > JsDoc Toolkit main() running at Mon Sep 10 2012 18:56:24 GMT-0400 (EDT).
+ > With options: 
+ >     d: out/jsdoc
+ >     o: true
+ >     t: templates/jsdoc/
+ >     _: app/t/
+ >     v: true
+ >     a: true
+ > Output directory set to 'out/jsdoc/'.
+ > Parsing file: app/t/runner.js
+ > Parsing file: app/t/TestDoc.js
+>> WARNING: Overwriting symbol documentation for: print.
+>> WARNING: Trying to document TestDoc.Result without first documenting TestDoc.
+>> WARNING: Trying to document TestDoc.Result without first documenting TestDoc.
+>> WARNING: Trying to document record as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document prove as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document run as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document Result as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document requires as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document report as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document plan as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document assertEquals as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document assertNotEquals as a member of undocumented symbol TestDoc.
+>> WARNING: Trying to document readFile as a member of undocumented symbol TestDoc.
